@@ -1,3 +1,6 @@
-# Practice-Code
+# Gurrency-Converter
 
-Este es un repositorio compartido entre Emmanuel Castro y JeffryCoder para fines de aprendizaje
+Forked from [Emmanuel-Castro](https://github.com/Emmanuel-Castro) repository.
+Manily a page to practice frontend web development
+
+![Preview](screenshot.png)
